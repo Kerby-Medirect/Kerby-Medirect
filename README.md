@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Kerby-Medirect, a freelance Graphic Designer and aspiring Front-End Developer.
+- 👋 Hi, I’m @Kerby-Medirect, an aspiring Front-End Developer.
 - 👀 I’m interested in learning different programming languages and showcasing what I've learned. 
-- 🌱 I’m currently learning Front-End development, IOS Mobile App development and UI/UX Design.
-- 💞️ I’m looking to collaborate with developers, designers & programmers.
+- 🌱 I’m currently ldeveloping my web development and mobile app development skills.
+- 💞️ I’m looking to collaborate with developers and programmers.
 - 📫 Feel free to reach out to me to connect or collaborate 📥
-- 😄 Pronouns: Him, Sir, Colleague or Brother/Bro
 - ⚡ Fun fact: I love to cut and sew my own clothing.
 
 <!---
